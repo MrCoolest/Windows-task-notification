@@ -8,10 +8,10 @@ Fill the rows of your task in Current created file and Rerun this program!
 ***
 **Add task in `task.csv` file and Rerun**
 
-![Add_task](./task_csv.png)
+![Add_task](./img/task_csv.png)
 
 ***
 
 **Output**
 
-![Output](./Output.png)
+![Output](./img/Output.png)
