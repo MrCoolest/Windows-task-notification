@@ -36,6 +36,4 @@ class Task_notify:
             time.sleep(1)
 
         
-if __name__ == "__main__":
-    obj = Task_notify()
-    obj.task_notification
+
